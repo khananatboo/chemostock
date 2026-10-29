@@ -9,6 +9,12 @@
 
 ---
 
+## 2026-10-29 — เปลี่ยนลิงก์หน้าเว็บ
+- ลิงก์ใหม่: **https://khananatboo.github.io/chemostock/**
+  (เปลี่ยนชื่อบัญชี GitHub เป็น `khananatboo` และชื่อ repo เป็น `chemostock`)
+- ลิงก์เดิม `khananat-boonchuay.github.io/chemo-stock-app` ใช้ไม่ได้แล้ว — ผู้ใช้ต้องเพิ่ม bookmark/ไอคอนใหม่, ล็อกอินใหม่ 1 ครั้ง และอนุญาตกล้องใหม่
+- ไม่มีการแก้โค้ด และไม่ต้อง Deploy `Code.gs` ใหม่
+
 ## 2026-10-19 — รายงานสำหรับพิมพ์ขนาด A4
 ไฟล์ที่เปลี่ยน: `Code.gs`, `index.html`, `app.js`, `style.css`
 
