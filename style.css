@@ -105,3 +105,4 @@
   .print-doc .pr-sign{display:flex;justify-content:space-around;margin-top:36px;font-size:12px;page-break-inside:avoid;}
   .print-doc .pr-sign div{text-align:center;}
   @media print{ .print-doc th,.print-doc tr.pr-group td{-webkit-print-color-adjust:exact;print-color-adjust:exact;} }
+  button:disabled{opacity:.6;cursor:wait;}
